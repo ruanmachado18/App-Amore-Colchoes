@@ -23,13 +23,17 @@ Aplicativo Android desenvolvido em Java utilizando Android Studio para gerenciam
 
 ## Telas do Sistema
 
+### Login
+
+![Login](screenshots/login.png)
+
 ### Menu Principal
 
 ![Menu Principal](screenshots/menu-principal.png)
 
-### Login
+### Produtos
 
-![Login](screenshots/login.png)
+![Produtos](screenshots/produtos.png)
 
 ### Cadastro 
 
