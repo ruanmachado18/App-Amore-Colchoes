@@ -25,11 +25,15 @@ Aplicativo Android desenvolvido em Java utilizando Android Studio para gerenciam
 
 ### Menu Principal
 
-![Menu Principal](screenshots/menu_principal.png)
+![Menu Principal](screenshots/menu-principal.png)
 
 ### Login
 
 ![Login](screenshots/login.png)
+
+### Cadastro 
+
+![Cadastro].(screenshots/cadastro.png).
 
 ### Carrinho
 
