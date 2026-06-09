@@ -44,6 +44,10 @@ Aplicativo Android desenvolvido em Java utilizando Android Studio para gerenciam
 
 ![Carrinho](screenshots/carrinho.png)
 
+### Histórico de Pedidos
+
+![Historico](screenshots/historico.png)
+
 ### Sobre Nós
 
 ![Sobre Nós](screenshots/sobre.png)
