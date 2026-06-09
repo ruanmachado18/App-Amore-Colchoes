@@ -27,6 +27,10 @@ Aplicativo Android desenvolvido em Java utilizando Android Studio para gerenciam
 
 ![Login](screenshots/login.png)
 
+### Cadastro 
+
+![Menu Principal](screenshots/criar_conta.png)
+
 ### Menu Principal
 
 ![Menu Principal](screenshots/menu-principal.png)
@@ -35,9 +39,6 @@ Aplicativo Android desenvolvido em Java utilizando Android Studio para gerenciam
 
 ![Produtos](screenshots/produtos.png)
 
-### Cadastro 
-
-![Menu Principal](screenshots/criar_conta.png)
 
 ### Carrinho
 
