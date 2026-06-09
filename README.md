@@ -33,7 +33,7 @@ Aplicativo Android desenvolvido em Java utilizando Android Studio para gerenciam
 
 ### Cadastro 
 
-![Menu Principal](screenshots/cadastro.png)
+![Menu Principal](screenshots/criar_conta.png)
 
 ### Carrinho
 
